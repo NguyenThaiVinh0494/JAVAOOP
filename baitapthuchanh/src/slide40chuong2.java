@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class kiemtrangay {
+public class slide40chuong2 {
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.printf("nhap ngay: ");
